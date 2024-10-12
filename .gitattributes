@@ -1,0 +1,8 @@
+# Détection du langage principal
+*.dart linguist-language=Dart
+*.yaml linguist-language=YAML
+*.md linguist-language=Markdown
+
+# Autres fichiers
+*.png binary
+*.jpg binary
